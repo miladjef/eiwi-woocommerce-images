@@ -4,7 +4,7 @@
  * Plugin URI: https:/miladjafarigavzan.ir
  * Description: Edit WooCommerce product gallery images' Alt Text, Title, Caption, and Description directly from the admin product page.
  * Version: 1.0
- * Author: milad jafari agvzan
+ * Author: milad jafari gavzan
  * Author URI:  https:/miladjafarigavzan.ir
  * License: GPL2
  * Text Domain: edit-woocommerce-product-images
