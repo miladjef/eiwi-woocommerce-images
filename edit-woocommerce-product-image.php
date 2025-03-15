@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: milad jafari agvzan
  * Author URI:  https:/miladjafarigavzan.ir
- * License: GPL
+ * License: GPL2
  * Text Domain: edit-woocommerce-product-images
  */
 
