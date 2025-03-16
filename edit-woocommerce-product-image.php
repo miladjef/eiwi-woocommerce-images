@@ -6,7 +6,7 @@
  * Version: 1.2
  * Author: milad jafari gavzan
  * Author URI:  https:/miladjafarigavzan.ir
- * License: GPL2
+ * License: GPL 2
  * Text Domain: edit-woocommerce-product-images-for donuacamputer robo
  */
 
