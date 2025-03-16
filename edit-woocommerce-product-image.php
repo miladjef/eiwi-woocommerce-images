@@ -6,8 +6,8 @@
  * Version: 1.2
  * Author: milad jafari gavzan
  * Author URI:  https:/miladjafarigavzan.ir
- * License: GPL
- * Text Domain: edit-woocommerce-product-images
+ * License: GPL2
+ * Text Domain: edit-woocommerce-product-images-for donuacamputer
  */
 
 // Exit if accessed directly
