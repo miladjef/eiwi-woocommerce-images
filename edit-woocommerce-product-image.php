@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Edit WooCommerce Product Images description and title
+ * Plugin Name: Edit WooCommerce Product Images description and title and mopre
  * Plugin URI: https:/miladjafarigavzan.ir 
  * Description: Edit WooCommerce product gallery images' Alt Text, Title, Caption, and Description directly from the admin product page.
  * Version: 1.2
